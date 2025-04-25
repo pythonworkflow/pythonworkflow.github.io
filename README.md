@@ -1,2 +1,2 @@
 # pythonworkflow.github.io
-Redirect to [https://www.materialdigital.de](https://pythonworkflow.github.io/python-workflow-definition)
+Redirect to [https://pythonworkflow.github.io/python-workflow-definition](https://pythonworkflow.github.io/python-workflow-definition)
